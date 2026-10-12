@@ -1,6 +1,7 @@
 # 作业
 1. 数组反转
-'#include <iostream>
+'''cpp
+#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -27,6 +28,6 @@ for (int i = 0;i < n;i++)
 }
 
 return 0;
-
-
-}'
+}
+'''
+2.
