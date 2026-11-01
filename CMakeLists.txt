@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(task1)
+find_package(yaml-cpp REQUIRED)
+add_executable(task1 main.cpp)
+target_link_libraries(task1 PRIVATE yaml-cpp)
