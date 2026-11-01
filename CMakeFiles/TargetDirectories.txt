@@ -1,3 +1,0 @@
-/home/rm/Wust_RM_homework_2/CMakeFiles/task1.dir
-/home/rm/Wust_RM_homework_2/CMakeFiles/edit_cache.dir
-/home/rm/Wust_RM_homework_2/CMakeFiles/rebuild_cache.dir
